@@ -1,2 +1,2 @@
 # travel-agency-system
-TWP4213 Travel Agency System
+FYP Travel Agency System
