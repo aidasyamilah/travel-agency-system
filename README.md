@@ -1,2 +1,2 @@
-# travel-agency-system
-FYP Travel Agency System
+# travel_agency
+TWP Project
